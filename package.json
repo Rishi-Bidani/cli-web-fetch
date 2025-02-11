@@ -1,10 +1,10 @@
 {
-  "name": "cli-scrape",
+  "name": "cli-web-fetch",
   "version": "0.0.1",
   "description": "CLI tool for web scraping and image downloading",
   "main": "dist/main.js",
   "bin": {
-    "cli-scrape": "./dist/main.js"
+    "cli-scrape": "dist/main.js"
   },
   "files": [
     "dist"
