@@ -1,6 +1,6 @@
 {
   "name": "cli-scrape",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "CLI tool for web scraping and image downloading",
   "main": "dist/main.js",
   "bin": {
