@@ -1,6 +1,6 @@
 {
   "name": "cli-web-fetch",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "CLI tool for web scraping and image downloading",
   "main": "dist/main.js",
   "bin": {
@@ -30,6 +30,10 @@
     "web-scraping",
     "image-downloader"
   ],
-  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rishi-Bidani/cli-web-fetch.git"
+  },
+  "author": "Rishi",
   "license": "MIT"
 }
